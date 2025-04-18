@@ -26,7 +26,7 @@ export const config: WebdriverIO.Config = {
     //     './test/specs/**/*.ts'
     // ],
     specs: [
-        './test/specs/5_button_runtime.e2e.ts'
+        './test/specs/1_hunting.e2e.ts'
     ],
 
     // Patterns to exclude.

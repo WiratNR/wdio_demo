@@ -49,9 +49,6 @@ describe('5_buuton_runtime', async () => {
                 // คลิกปุ่ม "Next"
                 await $('//*[@id="root"]/div/div/div[2]/div/div/div[3]/div[12]/button').click();
 
-
-
-
             } catch (err) {
                 console.error("เกิดข้อผิดพลาด: ", err);
                 break;
