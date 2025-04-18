@@ -1,0 +1,3 @@
+npx wdio run wdio.conf.ts --watch
+
+https://showdown.space/events/browser-automation-challenges/
